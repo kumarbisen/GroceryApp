@@ -41,7 +41,7 @@ const ProductOrder = () => {
     }
     const formattedData = cart.map(item => ({
       id:item._id,
-      item:item._id,
+      item:item.item,
       count:item.count
     }))
 
