@@ -104,11 +104,19 @@ To learn more about React Native, take a look at the following resources:
 -
 
 note: i skip ios setup for later so you when you needed but i do code;
-ScreenShot:
- <img width="1080" height="1920" alt="Screenshot_1760801597" src="https://github.com/user-attachments/assets/5c274ee9-bacf-4015-b7fc-0c09a33b8e92" />
 
-<img width="1080" height="1920" alt="Screenshot_1760867676" src="https://github.com/user-attachments/assets/9c7a3de3-040f-43ca-a736-f92496b2f7fb" />
-<img width="1080" height="1920" alt="Screenshot_1760806954" src="https://github.com/user-attachments/assets/1234fbe4-dfa6-4a7c-8657-dee9e3f1b924" />
-<img width="1080" height="1920" alt="Screenshot_1760806949" src="https://github.com/user-attachments/assets/75f1f4bf-f7cb-4ceb-9c9f-7351c6caa782" />
-<img width="1080" height="1920" alt="Screenshot_1760806941" src="https://github.com/user-attachments/assets/4c10a8ed-b161-479b-8072-9d1333dc25ee" />
+## Screenshots
+
+<table>
+  <tr>
+    <td><img width="250" alt="Screenshot 1" src="https://github.com/user-attachments/assets/5c274ee9-bacf-4015-b7fc-0c09a33b8e92" /></td>
+    <td><img width="250" alt="Screenshot 2" src="https://github.com/user-attachments/assets/9c7a3de3-040f-43ca-a736-f92496b2f7fb" /></td>
+    <td><img width="250" alt="Screenshot 3" src="https://github.com/user-attachments/assets/1234fbe4-dfa6-4a7c-8657-dee9e3f1b924" /></td>
+  </tr>
+  <tr>
+    <td><img width="250" alt="Screenshot 4" src="https://github.com/user-attachments/assets/75f1f4bf-f7cb-4ceb-9c9f-7351c6caa782" /></td>
+    <td><img width="250" alt="Screenshot 5" src="https://github.com/user-attachments/assets/4c10a8ed-b161-479b-8072-9d1333dc25ee" /></td>
+    <td></td>
+  </tr>
+</table>
 
